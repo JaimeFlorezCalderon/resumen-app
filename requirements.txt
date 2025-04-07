@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+transformers
+sumy
+python-docx
+langdetect
